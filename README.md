@@ -8,7 +8,17 @@ sebelum php artisan serve, ketik npm run dev
  npm run dev      
  php artisan serve 
 ```
+### Tech
 
+Used technologies for this project:
+
+* [Laravel] - Best framework for creating awesome apps fast.
+* [PHP] - for the best web apps!
+* [PostgresSql] - awesome database.
+* [Alphine.js] - For Interactive.
+* [Tailwind] - UI design.
+* [Github] - duh.
+  
 License
 ----
 Free to use, free to modify, free to share.
